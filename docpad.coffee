@@ -116,6 +116,9 @@ docpadConfig = {
 					tarExtractClean: true
 				}
 			]
+		cleanurls:
+			static: true
+			trailingSlashes: true
 
 
 	# =================================
