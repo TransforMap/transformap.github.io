@@ -1,0 +1,1400 @@
+{
+	"type": "FeatureCollection",
+	"crs": {
+		"type": "name",
+		"properties": {
+			"name": "EPSG:4326"
+		}
+	},
+	"generator": "JOSM",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"POI_TYPE": "talent and time barter",
+				"SSEDAS_PARTNER": "Suedwind",
+				"addr:city": "Güttenbach",
+				"addr:country": "AT",
+				"addr:housenumber": "50",
+				"addr:postcode": "7536",
+				"addr:street": "Untere Hauptstraße",
+				"club": "ttb",
+				"description": "„Gib und nimm“ is a talent and time barter in Burgenland.",
+				"description:de": "Gib und nimm ist ein Talente- und Zeittauschkreis im Burgenland.",
+				"free_keywords": "talent barter;exchange circle;time barter",
+				"name": "Talente Tauschkreis Burgenland",
+				"type_of_initiative": "timebanking",
+				"website": "http://gibundnimm.at/"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					16.28427,
+					47.15697
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"POI_TYPE": "community garden",
+				"SSEDAS_PARTNER": "INKOTA",
+				"addr:city": "Berlin Spandau",
+				"addr:country": "DE",
+				"addr:housenumber": "57",
+				"addr:street": "Kladower Damm",
+				"garden:type": "community",
+				"leisure": "garden",
+				"name": "Bauerngarten Berlin Havelmathen",
+				"type_of_initiative": "community_garden"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					13.18145243565,
+					52.47823215
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"POI_TYPE": "workshop for manufacture or repair of goods",
+				"SSEDAS_PARTNER": "Suedwind",
+				"addr:city": "Nenzing",
+				"addr:country": "AT",
+				"addr:housenumber": "5",
+				"addr:postcode": "6710",
+				"addr:street": "Gaisstraße",
+				"amenity": "workshop",
+				"contact:email": "ak-bds@pfarre-nenzing.at",
+				"description": "Workshop that encourages people repairing their broken stuff.",
+				"description:de": "Reparaturcafé, das Hilfe zur Selbsthilfe bei der Reparatur kaputter Dingen gibt.",
+				"free_keywords": "repairment;workshop",
+				"name": "Repair Café Nenzing",
+				"opening_hours:url": "http://wiki.imwalgau.at/wiki/Repair_Caf%C3%A9_im_Walgau#Ganz_neu_im_Walgau:_Repair_Caf.C3.A9",
+				"type_of_initiative": "repair_cafe",
+				"website": "http://wiki.imwalgau.at/wiki/Repair_Caf%C3%A9_im_Walgau"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					9.71241,
+					47.19106
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"POI_TYPE": "Community garden",
+				"SSEDAS_PARTNER": "INKOTA",
+				"addr:city": "Bremen",
+				"addr:country": "DE",
+				"addr:street": "Lucie-Flechtmann-Platz",
+				"garden:type": "community",
+				"leisure": "garden",
+				"name": "Ab geht die Lucie!",
+				"type_of_initiative": "community_garden"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					8.7968904777,
+					53.0740395
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"POI_TYPE": "research",
+				"SSEDAS_PARTNER": "INKOTA",
+				"addr:city": "Essen",
+				"addr:country": "DE",
+				"addr:housenumber": "181",
+				"addr:street": "Welterbe Zollverein, A9, Gelsenkirchener Straße",
+				"name": "Bonnekamp-Stiftung für die integrative Stadt",
+				"type_of_initiative": "sse_research"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					7.04591095448,
+					51.48635038428
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"POI_TYPE": "Community garden",
+				"SSEDAS_PARTNER": "INKOTA",
+				"addr:city": "München",
+				"addr:country": "DE",
+				"addr:street": "Emma-Ihrer-Straße",
+				"garden:type": "community",
+				"leisure": "garden",
+				"name": "o’pflanzt is!",
+				"type_of_initiative": "community_garden"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					11.54974222183,
+					48.16144106172
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"POI_TYPE": "Association Office",
+				"SSEDAS_PARTNER": "FairTradePoland",
+				"addr:city": "Łódź",
+				"addr:country": "PL",
+				"addr:housenumber": "27",
+				"addr:postcode": "90-602",
+				"addr:street": "ul. Zielona",
+				"contact:email": "office@zrodla.org.pl",
+				"contact:phone": "+48 42 632 81 18",
+				"description": "The Centre for Environmental Activities Zrodla is a nonprofit association with a mission to educate students, teachers, and the general public about local and global issues like ecology, Fair Trade, CSR",
+				"description:pl": "Celami Stowarzyszenia są: m.in. pobudzanie świadomości ekologicznej społeczeństwa oraz propagowanie i rozwijanie Sprawiedliwego Handlu (Fair Trade) oraz podnoszenie świadomości konsumentów w zakresie etycznego i odpowiedzialnego stylu konsumpcji.",
+				"fair-trade": "yes",
+				"free_keywords": "Places / Organisations;NGOs;",
+				"name": "Ośrodek Działań Ekologicznych „Źródła“",
+				"office": "association",
+				"opening_hours:url": "http://www.zrodla.org/kontakt/",
+				"organic": "yes",
+				"regional": "yes",
+				"type_of_initiative": "consumerism_awareness; sse_education; ngo",
+				"website": "http://www.zrodla.org/glowna/"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					19.44748192394,
+					51.77021499206
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"POI_TYPE": "Community garden",
+				"SSEDAS_PARTNER": "INKOTA",
+				"addr:city": "Hamburg",
+				"addr:country": "DE",
+				"addr:housenumber": "62-68",
+				"addr:street": "Große Freiheit",
+				"garden:type": "community",
+				"leisure": "garden",
+				"name": "Gartendeck",
+				"type_of_initiative": "community_garden"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					9.9581810832,
+					53.55220115894
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"POI_TYPE": "consumer cooperative (food coop)",
+				"SSEDAS_PARTNER": "Suedwind",
+				"addr:city": "Gänserndorf",
+				"addr:country": "AT",
+				"addr:housenumber": "90",
+				"addr:postcode": "2230",
+				"addr:street": "Fuchsenwaldstraße",
+				"club": "foodcoop",
+				"contact:email": "office@ochsenherz.at",
+				"description": "„Gela Ochsenherz“ is a big consumer cooperative North-East from Vienna.",
+				"description:de": "Gela Ochsenherz ist eine große Food Coop nordöstlich von Wien.",
+				"fair-trade": "no",
+				"free_keywords": "consumer cooperative;food cooperative",
+				"name": "GELA Ochsenherz",
+				"opening_hours:url": "http://www.ochsenherz.at/entnahmestellen/",
+				"organic": "only",
+				"regional": "only",
+				"type_of_initiative": "communitysupported_agriculture",
+				"website": "http://www.ochsenherz.at/"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					16.70203,
+					48.30682
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"POI_TYPE": "Fair Trade Shop",
+				"SSEDAS_PARTNER": "FairTradePoland",
+				"addr:city": "Oborniki Śląskie",
+				"addr:country": "PL",
+				"addr:housenumber": "31/III",
+				"addr:postcode": "55-120",
+				"addr:street": "ul. M. Curie-Skłodowskiej",
+				"contact:email": "sklep@szczyptaswiata.plarden",
+				"contact:phone": "+48 508 100 141",
+				"contact:website": "http://szczyptaswiata.pl/Kontakty-cinfo-pol-32.html",
+				"description": "Szczypta Świata is family Fair Trade business, selling Fair Trade products as a wholsaler.",
+				"description:pl": "Szczypta Świata to firma rodzinna, która zajmuje się sprzedażą produktów Sprawiedliwego Handlu.",
+				"fair-trade": "yes",
+				"free_keywords": "Commerce;Wholesalers;Food, Crafts",
+				"name": "Szczypta Świata",
+				"opening_hours:url": "http://szczyptaswiata.pl/Kontakty-cinfo-pol-32.html",
+				"organic": "yes",
+				"regional": "no",
+				"shop": "fairtrade",
+				"type_of_initiative": "fairtrade_wholesaler",
+				"website": "http://www.szczyptaswiata.pl"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					16.91863933002,
+					51.30035546627
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"POI_TYPE": "community garden",
+				"SSEDAS_PARTNER": "INKOTA",
+				"addr:city": "Nürnberg",
+				"addr:country": "DE",
+				"addr:housenumber": "44",
+				"addr:street": "Wandererstraße",
+				"garden:type": "community",
+				"leisure": "garden",
+				"name": "Stadtgarten Gartenküche",
+				"type_of_initiative": "community_garden"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					11.03443086147,
+					49.45435172228
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"POI_TYPE": "farmers market",
+				"SSEDAS_PARTNER": "INKOTA",
+				"addr:city": "Bremen",
+				"addr:country": "DE",
+				"addr:street": "Mecklenburger Straße",
+				"amenity": "marketplace",
+				"name": "ÖkoMarkt Steintor",
+				"type_of_initiative": "local_farmersmarket"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					8.8284856081,
+					53.07111414253
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"POI_TYPE": "Community garden",
+				"SSEDAS_PARTNER": "INKOTA",
+				"addr:city": "Wuppertal",
+				"addr:country": "DE",
+				"addr:housenumber": "48",
+				"addr:street": "Am Bahnhof Mirke, Mirker Straße",
+				"garden:type": "community",
+				"leisure": "garden",
+				"name": "Utopiastadtgarten",
+				"type_of_initiative": "community_garden"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					7.14445531368,
+					51.26635238807
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"POI_TYPE": "farmers market",
+				"SSEDAS_PARTNER": "INKOTA",
+				"addr:city": "Bremen",
+				"addr:country": "DE",
+				"addr:street": "Ulrichsplatz/Wulwestraße",
+				"amenity": "marketplace",
+				"name": "Ökomarkt Ostertor",
+				"type_of_initiative": "local_farmersmarket"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					8.81978452206,
+					53.07280299674
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"POI_TYPE": "community garden",
+				"SSEDAS_PARTNER": "INKOTA",
+				"addr:city": "Regensburg",
+				"addr:country": "DE",
+				"addr:housenumber": "31",
+				"addr:street": "Universitätsstraße",
+				"garden:type": "community",
+				"leisure": "garden",
+				"name": "Arbeitskreis UniGarten",
+				"type_of_initiative": "community_garden"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					12.0898917,
+					48.9933206
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"POI_TYPE": "talent and time barter",
+				"SSEDAS_PARTNER": "Suedwind",
+				"addr:city": "Dornbrin",
+				"addr:country": "AT",
+				"addr:housenumber": "10",
+				"addr:postcode": "6850",
+				"addr:street": "Bildgasse",
+				"club": "ttb",
+				"contact:email": "info@talente.cc",
+				"contact:phone": "+43 664 3456898",
+				"description": "A regional exchange circle with an own currency that is not connected to ordinary economy.",
+				"description:de": "Regionaler Tauschkeris mit eigener zins- und inflationsfreier Währung.",
+				"free_keywords": "local currency;exchange circle",
+				"name": "TALENTE-Vorarlberg",
+				"type_of_initiative": "timebanking",
+				"website": "http://www.talente.cc/"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					9.73401,
+					47.41498
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"POI_TYPE": "farmers market",
+				"SSEDAS_PARTNER": "INKOTA",
+				"addr:city": "Bremen",
+				"addr:country": "DE",
+				"addr:street": "Ziegenmarkt",
+				"amenity": "marketplace",
+				"name": "ÖkoMarkt auf dem Ziegenmarkt",
+				"type_of_initiative": "local_farmersmarket"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					8.8268624816,
+					53.07287655
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"POI_TYPE": "education",
+				"SSEDAS_PARTNER": "INKOTA",
+				"addr:city": "Hamburg",
+				"addr:country": "DE",
+				"addr:housenumber": "32-34",
+				"addr:street": "Nernstweg",
+				"name": "Agrar Koordination & FIA e.V.",
+				"type_of_initiative": "agroecology_education"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					9.9326631,
+					53.5563266
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"POI_TYPE": "community garden",
+				"SSEDAS_PARTNER": "INKOTA",
+				"addr:city": "Regensburg",
+				"addr:country": "DE",
+				"addr:street": "Am Protzenweiher",
+				"garden:type": "community",
+				"leisure": "garden",
+				"name": "Gemeinschaftsgarten am Protzenweiher",
+				"type_of_initiative": "community_garden"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					12.10042119026,
+					49.02570219835
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"POI_TYPE": "Community garden",
+				"SSEDAS_PARTNER": "INKOTA",
+				"addr:city": "Hannover",
+				"addr:country": "DE",
+				"addr:housenumber": "42",
+				"addr:street": "An der Bauernwiese",
+				"garden:type": "community",
+				"leisure": "garden",
+				"name": "Ein Vermehrungsgarten für Hannover",
+				"type_of_initiative": "community_garden"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					9.72763717175,
+					52.33636175493
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"POI_TYPE": "Company office",
+				"SSEDAS_PARTNER": "Suedwind",
+				"addr:city": "Salzburg",
+				"addr:country": "AT",
+				"addr:housenumber": "18",
+				"addr:postcode": "5020",
+				"addr:street": "Strubergasse",
+				"contact:email": "office@intersol.at",
+				"contact:phone": "+43 662 874723",
+				"description": "„INTERSOL“ is a club that seeks to support international solidarity.",
+				"description:de": "INTERSOL - Verein zur Förderung INTERnationaler SOLidarität.",
+				"free_keywords": "cooperation;participation;international solidarity",
+				"name": "Intersol",
+				"office": "company",
+				"type_of_initiative": "development_cooperation",
+				"website": "http://www.intersol.at/"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					13.03289,
+					47.80913
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"POI_TYPE": "Community garden",
+				"SSEDAS_PARTNER": "INKOTA",
+				"addr:city": "Dresden",
+				"addr:country": "DE",
+				"addr:housenumber": "80",
+				"addr:street": "Leisninger Straße",
+				"garden:type": "community",
+				"leisure": "garden",
+				"name": "Aprikosen für Alle",
+				"type_of_initiative": "community_garden"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					13.72119426727,
+					51.0830779739
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"POI_TYPE": "community garden",
+				"SSEDAS_PARTNER": "INKOTA",
+				"addr:city": "Bochum",
+				"addr:country": "DE",
+				"addr:housenumber": "19a",
+				"addr:street": "Hinterhof der Alsenstraße",
+				"garden:type": "community",
+				"leisure": "garden",
+				"name": "Alsengarten",
+				"type_of_initiative": "community_garden"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					7.22922116518,
+					51.47630794965
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"POI_TYPE": "consumer cooperative (food coop)",
+				"SSEDAS_PARTNER": "Suedwind",
+				"addr:city": "Wien",
+				"addr:country": "AT",
+				"addr:housenumber": "23",
+				"addr:postcode": "1150",
+				"addr:street": "Geibelgasse",
+				"club": "foodcoop",
+				"contact:email": "info@veganfoodcoop.at",
+				"description": "The first „vegan foodcoop“ of Vienna awaits you!",
+				"description:de": "Die erste vegane foodcoop Wiens wartet auf dich!",
+				"fair-trade": "no",
+				"free_keywords": "consumer cooperative;food cooperative",
+				"name": "Vegan food coop",
+				"opening_hours:url": "https://www.veganfoodcoop.at/kontakt/",
+				"organic": "only",
+				"regional": "only",
+				"type_of_initiative": "foodpurchasing_combine",
+				"website": "http://www.veganfoodcoop.at/"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					16.33181,
+					48.19099
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"POI_TYPE": "club",
+				"SSEDAS_PARTNER": "INKOTA",
+				"addr:city": "Berlin",
+				"addr:country": "DE",
+				"addr:housenumber": "19-20",
+				"addr:street": "Marienstraße",
+				"club": "yes",
+				"name": "Fördergemeinschaft Ökologischer Landbau / Aktionsbündnis Agrarwende Berlin-Brandenburg",
+				"type_of_initiative": "agroecology_education"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					13.38345871166,
+					52.5224673
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"POI_TYPE": "workshop for manufacture or repair of goods",
+				"SSEDAS_PARTNER": "Suedwind",
+				"addr:city": "Wien",
+				"addr:country": "AT",
+				"addr:housenumber": "8",
+				"addr:postcode": "1150",
+				"addr:street": "Goldschlagstraße",
+				"amenity": "workshop",
+				"contact:email": "info@bikekitchen.net",
+				"description": "The „Vienna bikekitchen“ is a workshop where everybody can repair or rebuild their own bicycle.",
+				"description:de": "Die Bikekitchen ist eine offene Werkstätte für alle, die ihr Rad reparieren oder umbauen möchten.",
+				"free_keywords": "workshop;colllective;bicycle repair store",
+				"name": "The Vienna Bikekitchen",
+				"opening_hours:url": "http://www.bikekitchen.net/index.php/Home",
+				"type_of_initiative": "bicycle_selfrepair",
+				"website": "http://www.bikekitchen.net/"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					16.3364,
+					48.19914
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"POI_TYPE": "Give-away shops",
+				"SSEDAS_PARTNER": "Suedwind",
+				"addr:city": "Wien",
+				"addr:country": "AT",
+				"addr:housenumber": "26",
+				"addr:postcode": "1050",
+				"addr:street": "Zentagasse",
+				"contact:email": "info@umsonstladen.at",
+				"description": "This is the „Kost-Nix-Laden“, where you can bring and take goods for free.",
+				"description:de": "Im Kost-Nix-Laden kannst du jederzeit Dinge gratis hinbringen und andere mitnehmen.",
+				"fair-trade": "limited",
+				"free_keywords": "Give-away store;Give-away shop",
+				"name": "Kostnix-Laden Wien",
+				"opening_hours:url": "http://www.kostnixladen.at",
+				"organic": "limited",
+				"payment:none": "yes",
+				"regional": "limited",
+				"shop": "*",
+				"type_of_initiative": "giveaway_shop",
+				"website": "http://www.kostnixladen.at/"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					16.35878,
+					48.18817
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"POI_TYPE": "Community garden",
+				"SSEDAS_PARTNER": "INKOTA",
+				"addr:city": "Schönefeld",
+				"addr:country": "DE",
+				"addr:housenumber": "7",
+				"addr:street": "Querweg",
+				"garden:type": "community",
+				"leisure": "garden",
+				"name": "Bauerngarten Berlin Mette",
+				"type_of_initiative": "community_garden"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					13.446575,
+					52.4055121
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"POI_TYPE": "consumer cooperative (food coop)",
+				"SSEDAS_PARTNER": "Suedwind",
+				"addr:city": "Linz",
+				"addr:country": "AT",
+				"addr:housenumber": "23",
+				"addr:postcode": "4020",
+				"addr:street": "Wimhölzelstraße",
+				"club": "foodcoop",
+				"contact:email": "info@franckkistl.at",
+				"description": "Neighborhood association supporting food sovereignty.",
+				"description:de": "Nachbarschaftsverein zur Unterstützung von Ernährungssouveränität",
+				"fair-trade": "no",
+				"free_keywords": "food cooperative;food sovereignty;neigboorhood association",
+				"name": "Franck Kistl",
+				"organic": "only",
+				"regional": "only",
+				"type_of_initiative": "foodpurchasing_combine",
+				"website": "http://www.franckkistl.at/"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					14.31394,
+					48.29526
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"POI_TYPE": "farmers market",
+				"SSEDAS_PARTNER": "INKOTA",
+				"addr:city": "Bremen",
+				"addr:country": "DE",
+				"addr:street": "Pappelstraße",
+				"amenity": "marketplace",
+				"name": "Ökomarkt Neustadt",
+				"type_of_initiative": "local_farmersmarket"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					8.790565,
+					53.0682354
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"POI_TYPE": "farmers market",
+				"SSEDAS_PARTNER": "INKOTA",
+				"addr:city": "München",
+				"addr:country": "DE",
+				"addr:housenumber": "15b",
+				"addr:street": "Holzstraße",
+				"amenity": "marketplace",
+				"name": "Genussgemeinschaft Städter und Bauern e.V.",
+				"type_of_initiative": "local_farmersmarket"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					11.5684046,
+					48.1298895
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"POI_TYPE": "consumer cooperative (food coop)",
+				"SSEDAS_PARTNER": "Suedwind",
+				"addr:city": "Ulrichskirchen",
+				"addr:country": "AT",
+				"addr:housenumber": "14",
+				"addr:postcode": "2122",
+				"addr:street": "Wiener Straße",
+				"club": "foodcoop",
+				"description": "„FürMi“ is a consumer dooperative in Lower Austria that sells food from local ecological agriculture.",
+				"description:de": "FürMi (Füreinander – Miteinander) ist eine  Food Coop in Niederösterreich, die Produkte aus regional-ökologischer Landwirtschaft direkt zur Verfügung stellt.",
+				"fair-trade": "no",
+				"free_keywords": "consumer cooperative;food cooperative",
+				"name": "FoodCoop FürMi",
+				"opening_hours:url": "http://www.fuermi.at",
+				"organic": "only",
+				"regional": "only",
+				"type_of_initiative": "foodpurchasing_combine",
+				"website": "http://www.fuermi.at/"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					16.49338,
+					48.39973
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"POI_TYPE": "community garden",
+				"SSEDAS_PARTNER": "INKOTA",
+				"addr:city": "Wuppertal",
+				"addr:country": "DE",
+				"addr:housenumber": "110",
+				"addr:street": "Luisenstraße",
+				"garden:type": "community",
+				"leisure": "garden",
+				"name": "Wandelgarten mit Wandelkino",
+				"type_of_initiative": "community_garden"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					7.13676273823,
+					51.25626997149
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"POI_TYPE": "squatted  land",
+				"SSEDAS_PARTNER": "Suedwind",
+				"addr:city": "Wien",
+				"addr:country": "AT",
+				"addr:housenumber": "14",
+				"addr:postcode": "1220",
+				"addr:street": "Naufahrtweg",
+				"contact:email": "solila@riseup.net",
+				"description": "This is the „SoliLa!“, where you can plant your own vegetables and harvest them.",
+				"description:de": "SoliLa! (Solidarisch Landwirtschaften) bietet die Möglichkeit eigenes Gemüse anzubauen und gemeinsam zu ernten.",
+				"fair-trade": "no",
+				"free_keywords": "collective;solidaric agriculture;squatted land",
+				"landuse": "greenfield",
+				"name": "SoliLa!",
+				"opening_hours:url": "http://solila.blogsport.eu/feldtage/",
+				"organic": "only",
+				"regional": "only",
+				"squatted": "yes",
+				"type_of_initiative": "guerilla_garden",
+				"website": "http://solila.blogsport.eu/"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					16.45826,
+					48.20449
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"POI_TYPE": "farmers market",
+				"SSEDAS_PARTNER": "SOSFAIM",
+				"addr:city": "Schaerbeek",
+				"addr:country": "BE",
+				"addr:housenumber": "19",
+				"addr:orig_street": "Rue Van Hove",
+				"addr:postcode": "1030",
+				"contact:email": "contact@bees-coop.be",
+				"contact:phone": "+32 498 65 20 38",
+				"description": "the first cooperative supermarket in Brussels : to be owner, worker and client at the same time",
+				"description:fr": "BEES coop (pour « coopérative bruxelloise, écologique, économique et sociale ») est le premier supermarché participatif à Bruxelles. L’objectif est simple : construire une coopérative de consommateurs d’envergure visant à offrir une nourriture de qualité à prix accessible mais juste, dans une démarche respectueuse de l’environnement et de l’humain. Le but est de créer une alternative à la grande distribution en se basant sur la participation active des membres au fonctionnement du magasin.",
+				"fair-trade": "limited",
+				"free_keywords": "consumer cooperative;fair trade",
+				"image": "https://base.transformap.co/wiki/File:Bees_coop_logo.png",
+				"image:credit": "Bees coop",
+				"image:license": "©",
+				"name": "Beescoop",
+				"organic": "limited",
+				"regional": "yes",
+				"type_of_initiative": "local_farmersmarket",
+				"website": "http://bees-coop.be"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					4.377250146,
+					50.85693926093
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"POI_TYPE": "Community garden",
+				"SSEDAS_PARTNER": "INKOTA",
+				"addr:city": "Hamburg",
+				"addr:country": "DE",
+				"addr:street": "Ölmühlenplatz im Karolinenviertel",
+				"garden:type": "community",
+				"leisure": "garden",
+				"name": "Keimzelle – TAUSCHPLATZ für Alle",
+				"type_of_initiative": "community_garden"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					9.96922641993,
+					53.55807270317
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"POI_TYPE": "consumer cooperative",
+				"SSEDAS_PARTNER": "INKOTA",
+				"addr:city": "Potsdam",
+				"addr:country": "DE",
+				"addr:housenumber": "22",
+				"addr:street": "Friedrich-Engels-Straße",
+				"name": "freiLand CSA",
+				"type_of_initiative": "communitysupported_agriculture"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					13.07768693557,
+					52.3895574
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"POI_TYPE": "consumer cooperative (food coop)",
+				"SSEDAS_PARTNER": "Suedwind",
+				"addr:city": "Salzburg",
+				"addr:country": "AT",
+				"addr:housenumber": "28",
+				"addr:postcode": "5020",
+				"addr:street": "Kaigasse",
+				"club": "foodcoop",
+				"contact:email": "info@salzkoerndl.org",
+				"description": "Food cooperative supporting conscious consumption.",
+				"description:de": "Food Coop, die bewussten Konsum unterstützt",
+				"fair-trade": "no",
+				"free_keywords": "consumer cooperative;food cooperative;conscious consumption",
+				"name": "Salzkörndl",
+				"opening_hours:url": "http://salzkoerndl.org/?page_id=6",
+				"organic": "only",
+				"regional": "only",
+				"type_of_initiative": "foodpurchasing_combine",
+				"website": "http://salzkoerndl.org/"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					13.05056,
+					47.79656
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"POI_TYPE": "Community garden",
+				"SSEDAS_PARTNER": "INKOTA",
+				"addr:city": "Stuttgart",
+				"addr:country": "DE",
+				"addr:housenumber": "4",
+				"addr:street": "Güterstraße",
+				"garden:type": "community",
+				"leisure": "garden",
+				"name": "INSELGRÜN",
+				"type_of_initiative": "community_garden"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					9.226405,
+					48.7974729
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"SSEDAS_PARTNER": "Suedwind",
+				"addr:city": "Innsbruck",
+				"addr:country": "AT",
+				"addr:housenumber": "29",
+				"addr:postcode": "6020",
+				"addr:street": "Defreggerstraße",
+				"contact:email": "innsbruck@leihladen.at",
+				"description": "The „Leihladen Innsbruck“ is a Borrowing shop.",
+				"description:de": "Der Leihladen Innsbruck ist die Bibliothek der Dinge.",
+				"free_keywords": "borrowing shop",
+				"name": "Leihladen Innsbruck",
+				"shop": "yes",
+				"type_of_initiative": "lending_central",
+				"website": "https://www.facebook.com/leihladen-innsbruck"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					11.41076,
+					47.26545
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"POI_TYPE": "farm",
+				"SSEDAS_PARTNER": "INKOTA",
+				"addr:city": "Dortmund",
+				"addr:country": "DE",
+				"addr:housenumber": "21",
+				"addr:street": "Kümper Heide",
+				"landuse": "farmyard",
+				"name": "Lernbauernhof Schulte-Tigges",
+				"type_of_initiative": "agroecology_education"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					7.50016265236,
+					51.5737588
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"POI_TYPE": "farm",
+				"SSEDAS_PARTNER": "INKOTA",
+				"addr:city": "Lehrte-Hämelerwald",
+				"addr:country": "DE",
+				"landuse": "farmyard",
+				"name": "Solidarische Landwirtschaft – Gut Adolphshof",
+				"type_of_initiative": "communitysupported_agriculture"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					10.118776,
+					52.332932
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"POI_TYPE": "squatted house",
+				"SSEDAS_PARTNER": "Suedwind",
+				"addr:city": "Linz",
+				"addr:country": "AT",
+				"addr:housenumber": "3",
+				"addr:postcode": "4020",
+				"addr:street": "Graben",
+				"building": "yes",
+				"contact:email": "willy-fred@servus.at",
+				"contact:phone": "+43 732 287055",
+				"description": "Syndicalist houseproject in the centre of Linz.",
+				"description:de": "Syndikalistisches Hausprojekt im Zentrum von Linz.",
+				"free_keywords": "house project;squatted house;syndicalism",
+				"name": "Haus Willy*Fred",
+				"opening_hours:url": "http://habitat.servus.at/willy-fred/ueber-uns/kontakt/",
+				"squatted": "yes",
+				"type_of_initiative": "squatted_place",
+				"website": "http://habitat.servus.at/willy-fred/"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					14.28995,
+					48.30605
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"POI_TYPE": "consumer cooperative",
+				"SSEDAS_PARTNER": "INKOTA",
+				"addr:city": "Radebeul",
+				"addr:country": "DE",
+				"addr:housenumber": "50",
+				"addr:street": "Niederwarthaer Straße",
+				"name": "DeinHof – Solidarische Gemüsekoop Dresden",
+				"type_of_initiative": "foodpurchasing_combine"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					13.6053465,
+					51.0994584
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"POI_TYPE": "community garden",
+				"SSEDAS_PARTNER": "INKOTA",
+				"addr:city": "Dortmund",
+				"addr:country": "DE",
+				"addr:housenumber": "21",
+				"addr:street": "Kümper Heide",
+				"garden:type": "community",
+				"leisure": "garden",
+				"name": "SoLawi Dortmund",
+				"type_of_initiative": "communitysupported_agriculture"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					7.50016265236,
+					51.5737588
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"POI_TYPE": "talent and time barter",
+				"SSEDAS_PARTNER": "Suedwind",
+				"addr:city": "Wien",
+				"addr:country": "AT",
+				"addr:housenumber": "59",
+				"addr:postcode": "1090",
+				"addr:street": "Währinger Strasse",
+				"club": "ttb",
+				"contact:email": "info@waffeltasuch.at",
+				"description": "„LETS“ is a Local Exchange Trading System.",
+				"description:de": "LETS steht für Local Exchange Trading System und ist ein gemeinnütziger Verein zur Errichtung einer barggeldlosen Tausch- und Verrechnungssystems.",
+				"fair-trade": "limited",
+				"free_keywords": "talent barter;exchange circle;time barter",
+				"name": "LETS Wien Tauschkreis",
+				"opening_hours:url": "http://www.waffeltausch.at/kontakt.html",
+				"organic": "limited",
+				"regional": "limited",
+				"type_of_initiative": "communitycurrency",
+				"website": "http://www.waffeltausch.at/index.html"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					16.354267,
+					48.224113
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"POI_TYPE": "cooperative",
+				"SSEDAS_PARTNER": "SOSFAIM",
+				"addr:city": "Herstal",
+				"addr:country": "BE",
+				"addr:housenumber": "690",
+				"addr:orig_street": "Rue de Milmort",
+				"addr:postcode": "4040",
+				"addr:street": "Rue de Milmort",
+				"contact:email": "info@terre.be",
+				"contact:phone": "+32 4 240 58 58",
+				"description": "an innovate structure of social and solidarity economy aiming at collecting funds through recycling activities in Belgium to fund development project in the South",
+				"fair-trade": "limited",
+				"free_keywords": "recycling;clothes",
+				"name": "Terre",
+				"opening_hours:url": "http://www.terre.be/page.php?pagID=24",
+				"organic": "limited",
+				"regional": "no",
+				"type_of_initiative": "recycling",
+				"website": "http://www.terre.be"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					5.60796655622,
+					50.68890657164
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"POI_TYPE": "food council",
+				"SSEDAS_PARTNER": "INKOTA",
+				"addr:city": "Regensburg",
+				"addr:country": "DE",
+				"addr:housenumber": "3",
+				"addr:street": "Küffnerstraße",
+				"name": "Slow Food Regensburg",
+				"type_of_initiative": "slowfood"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					12.10057064346,
+					49.02214255
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"POI_TYPE": "Community garden",
+				"SSEDAS_PARTNER": "INKOTA",
+				"addr:city": "Berlin",
+				"addr:country": "DE",
+				"garden:type": "community",
+				"leisure": "garden",
+				"name": "Gemeinschaftsgarten Allmende-Kontor",
+				"type_of_initiative": "community_garden"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					13.4027557,
+					52.4729578
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"POI_TYPE": "Give-away shops",
+				"SSEDAS_PARTNER": "Suedwind",
+				"addr:city": "Innsbruck",
+				"addr:country": "AT",
+				"addr:housenumber": "11",
+				"addr:postcode": "6020",
+				"addr:street": "Höttinger Gasse",
+				"contact:email": "kostnix@catbull.com",
+				"description": "„KostNix Innsbruck“ is a give-away shop from which you can take away all the things you need or at which you leave what you don`t need",
+				"description:de": "Bei KostNix Innsbruck kannst du dir das mitnehmen, was du brauchst und das dort lassen, was du nicht benötigst.",
+				"free_keywords": "for free;give away shop",
+				"name": "Kostnix Umsonstladen",
+				"opening_hours:url": "http://kostnix.blogsport.at/kontakt/",
+				"payment:none": "yes",
+				"shop": "yes",
+				"type_of_initiative": "giveaway_shop",
+				"website": "http://kostnix.blogsport.at/"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					11.38947,
+					47.26907
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"POI_TYPE": "school",
+				"SSEDAS_PARTNER": "FairTradePoland",
+				"addr:city": "Katowice",
+				"addr:country": "PL",
+				"addr:housenumber": "60",
+				"addr:postcode": "40-358",
+				"addr:street": "ul. Gen. J. Hallera",
+				"amenity": "school",
+				"contact:phone": "+48 32 256 99 34",
+				"description": "Zespół Szkół Handlowych im. Bolesława Prusa w Katowicach is trade school (secondary school) in Katowice, southern Poland.",
+				"description:pl": "Zespół Szkół Handlowych im. Bolesława Prusa w Katowicach kształci przyszłych handlowców, oferując nie tylko kompetencje zawodowe, ale również wiedzę na temat zależności globalnych.",
+				"fair-trade": "yes",
+				"free_keywords": "Places / Organisations;Schools;",
+				"name": "Zespół Szkół Handlowych im. Bolesława Prusa",
+				"organic": "limited",
+				"regional": "yes",
+				"type_of_initiative": "fairtrade_school",
+				"website": "http://www.zshkatowice.pl"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					19.07374725893,
+					50.27259714336
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"POI_TYPE": "Community Garden",
+				"SSEDAS_PARTNER": "INKOTA",
+				"addr:city": "Hamburg",
+				"addr:country": "DE",
+				"addr:street": "Schulgartenweg / Altonaer Volkspark",
+				"garden:type": "community",
+				"leisure": "garden",
+				"name": "Tifu Tutenberg Institut für Umweltgestaltung e.V. – Permakulturgarten",
+				"type_of_initiative": "community_garden"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					9.90142822266,
+					53.5764038844
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"POI_TYPE": "Community garden",
+				"SSEDAS_PARTNER": "Suedwind",
+				"addr:city": "Herzogenburg",
+				"addr:country": "AT",
+				"addr:housenumber": "10",
+				"addr:postcode": "3130",
+				"addr:street": "Dörflein",
+				"description": "The „Garten der Generationen“ is a community garden that allows everybody, who wants to contribute, to use tha garden.",
+				"description:de": "Der Garten der Generationen erlaubt allen, die etwas beitragen möchten, den Garten zu benützen.",
+				"fair-trade": "no",
+				"free_keywords": "subsistence economy;community garden",
+				"garden:type": "community",
+				"leisure": "garden",
+				"name": "Garten der Generationen",
+				"organic": "only",
+				"regional": "only",
+				"type_of_initiative": "cohousing",
+				"website": "http://www.gartendergenerationen.net"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					15.68035,
+					48.27891
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"POI_TYPE": "community garden",
+				"SSEDAS_PARTNER": "INKOTA",
+				"addr:city": "Berlin",
+				"addr:country": "DE",
+				"addr:housenumber": "5",
+				"addr:street": "Blankenfelder Chaussee",
+				"garden:type": "community",
+				"leisure": "garden",
+				"name": "Bauerngarten Berlin Pankow",
+				"type_of_initiative": "community_garden"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					13.3991708,
+					52.6053291
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"POI_TYPE": "Give-away shops",
+				"SSEDAS_PARTNER": "Suedwind",
+				"addr:city": "Wien",
+				"addr:country": "AT",
+				"addr:housenumber": "33",
+				"addr:postcode": "1080",
+				"addr:street": "Pfeilgasse",
+				"contact:email": "schenke@geldlos.at",
+				"description": "This is „Die Schenke“, where you can bring and take goods for free.",
+				"description:de": "In der Schenke kannst du jederzeit Dinge gratis hinbringen und andere mitnehmen.",
+				"fair-trade": "limited",
+				"free_keywords": "Give-away store;Give-away shop",
+				"name": "Die Schenke",
+				"opening_hours:url": "https://dieschenke.wordpress.com/offnungszeiten-opening-times/",
+				"organic": "limited",
+				"payment:none": "yes",
+				"regional": "limited",
+				"shop": "*",
+				"type_of_initiative": "giveaway_shop",
+				"website": "https://dieschenke.wordpress.com/"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					16.34269,
+					48.20915
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"POI_TYPE": "Community garden",
+				"SSEDAS_PARTNER": "INKOTA",
+				"addr:city": "Hamburg",
+				"addr:country": "DE",
+				"addr:housenumber": "147",
+				"addr:street": "hinter dem Haus Veringstraße",
+				"garden:type": "community",
+				"leisure": "garden",
+				"name": "Interkultureller Garten Wilhelmsburg e.V.",
+				"type_of_initiative": "community_garden"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					9.98610019684,
+					53.50685051204
+				]
+			}
+		}
+	],
+	"_id": "5d6b9d3d32097fd6832200874402cfc3"
+}

@@ -1,0 +1,16 @@
+/* the humans responsible & colophon */
+/* humanstxt.org */
+
+
+/* TEAM */
+  Front-end Developer: Kei Kreutler
+  Site: http://keikreutler.cc
+  Twitter: @keikreutler
+  Location: London, Athens, and Berlin
+
+/* THANKS */
+  Names (& URL): Jon Richter, Michael Maier, Thomas Kalka, Adrien Labaeye
+
+/* SITE */
+  Standards: HTML5, CSS3
+  Components: Modernizr, jQuery, Bootstrap, Font Awesome
